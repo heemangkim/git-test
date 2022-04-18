@@ -1,4 +1,8 @@
 public class MergeTest {
-    private int Number = 0;
+    private int num = 0;
 
+    public void test() {
+        num = 1;
+
+    }
 }
